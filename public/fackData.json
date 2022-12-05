@@ -1,0 +1,54 @@
+[{
+    "id" : 1,
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRi3PeLjqw60NHd0sznny0x1octsg_I0Yj3RIBOlI55qrO743H",
+    "name" : "In Love, Amy Bloom",
+    "time" : "50"
+},
+{
+    "id" : 2,
+    "img" : "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639314979i/57846320.jpg",
+    "name" : "The School for Good Mothers, Jessamine Chan",
+    "time" : "30"
+},
+{
+    "id" : 3,
+    "img" : "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476716763/the-candy-house-9781476716763_hr.jpg",
+    "name" : "The Candy House, Jennifer Egan",
+    "time" : "40"
+},
+{
+    "id" : 4,
+    "img" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620085798l/57693171.jpg",
+    "name" : "Olga Dies Dreaming, Xochitl Gonzalez",
+    "time" : "25"
+},
+{
+    "id" : 5,
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFT4y6Plprn53pIuYxb24SBgKOvYPQ_ElcVxA1Ym8nC5RcK85yxqu5xsXa5-XrxMsYDUA&usqp=CAU",
+    "name" : "Fiona and Jane, Jean Chen Ho",
+    "time" : "45"
+},
+{
+    "id" : 6,
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ09b827rBV89sUvw0AGTDR1ZcqOfVgHuw42nTv3GOGUUzN-vGJZLoLfNb2k1FKwHdvZ0&usqp=CAU",
+    "name" : "Vladimir, Julia May Jonas",
+    "time" : "49"
+},
+{
+    "id" : 7,
+    "img" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642742381l/60172988._SY475_.jpg",
+    "name" : "Young Mungo, Douglas Stuart",
+    "time" : "32"
+},
+{
+    "id" : 8,
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZF7HakTut8TldpX9JGT0V_WYL6dApOvAORurfFtGf7NuDdUXfNOu5Z3uBTQUaG3SpxX8&usqp=CAU",
+    "name" : "Time Is a Mother, Ocean Vuon",
+    "time" : "20"
+},
+{
+    "id" : 9,
+    "img" : "https://images.squarespace-cdn.com/content/v1/5ccb06a9b914495851cebc76/1636198193381-AS3VDMO8ATVGUY6Q4DZ6/img_20211106_104136.jpg?format=1000w",
+    "name" : "The Books of Jacob, Olga Tokarczuk",
+    "time" : "230"
+}]

@@ -1,0 +1,10 @@
+.break-time{
+    margin:auto;
+    width: 90%;
+    border-radius: 5px;
+    background: hsl(0, 7%, 92%);
+}
+.break-btn:hover{
+    background: rgb(13, 110, 253) !important;
+    color: white !important;
+}
